@@ -1,0 +1,6 @@
+irritating how time bar obscures bottom half of video.
+a web extension could scale video such that this doesn't happen.
+more advanced could scale dynamicaly such that when controls are not vidible, video is fullscreen.
+generally screen and video are 16:9. ideally should adapt to when this is not the case.
+
+would especially like this on phone! possibly with moving video up a bit, so larger black bar on bottom (where controls appear)

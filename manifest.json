@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "youtube video shrink",
+    "description": "shrink youtube video a bit so controls don't get in the way of the video",
+    "version": "1.0",
+
+    "content_scripts": [
+    {
+      "matches": ["*://*.youtube.com/*"],
+      "js": ["shrinkit.js"]
+    }
+  ]
+}
